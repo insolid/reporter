@@ -7,7 +7,7 @@
 ## Запуск
 1. Установить зависимости
 ```bash
-pip install -r requirements.py
+pip install -r requirements.txt
 ```
 2. Запустить скрипт
 ```bash
